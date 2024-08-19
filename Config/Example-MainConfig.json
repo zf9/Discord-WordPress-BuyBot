@@ -1,0 +1,19 @@
+{
+    "DiscordCommandPrefix": "!",
+    "DiscordToken": "",
+    "DiscordClientID": "",
+
+    "WordPress_url": "",
+    "WordPress_consumerKey": "",
+    "WordPress_consumerSecret": "",
+    "WordPress_version": "wc/v3",
+
+    "CustomPayments": {
+        "PaypalEmail": "",
+        "PaysafeEmail": "",
+        "CashappID": "",
+        "SkrillID": "",
+        "VenmoLink": ""
+    }
+
+}
