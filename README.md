@@ -1,3 +1,5 @@
+Setup the custom messages in here. [Click Here](https://github.com/zf9/Discord-WordPress-BuyBot/blob/main/Events/InteractionCreate.js#L172-L200)
+
 ![1 Message](https://github.com/zf9/Discord-WordPress-BuyBot/blob/main/Screenshot_Start.png?raw=true)
 ![2 Message](https://github.com/zf9/Discord-WordPress-BuyBot/blob/main/Screenshot_Product.png?raw=true)
 ![3 Message](https://github.com/zf9/Discord-WordPress-BuyBot/blob/main/Screenshot_Product_Selection.png?raw=true)
